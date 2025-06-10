@@ -12,23 +12,16 @@ It allows you to manage clients and their orders through an interactive graphica
 <img width="726" alt="image" src="https://github.com/user-attachments/assets/99a043e2-2cd0-460c-b259-942e78dcd62c" />
 
 # ⚙️ Features
-Add new clients
-
-Add and delete orders
-
-Check specific orders
-
-View all orders made by a specific client
-
-Easy-to-use GUI with multiple sections
-
-Uses SQLite for persistent local data storage
+  - Add new clients
+  - Add and delete orders
+  - Check specific orders
+  - View all orders made by a specific client
+  - Easy-to-use GUI with multiple sections
+  - Uses SQLite for persistent local data storage
 
 # 🏗️ Technologies Used
 Python 3
-
 Tkinter (for GUI)
-
 SQLite3 (for database)
 
 # 🚀 How to Run
@@ -47,19 +40,19 @@ python po.py
 ```
 
 # 🧠 App Structure
-Database class: Handles all database operations (create tables, insert, delete, check)
+**Database class**: Handles all database operations (create tables, insert, delete, check)
 
-OrderApp class: Handles all GUI interactions
+**OrderApp class**: Handles all GUI interactions
 
-Multiple frames for:
+**Multiple frames for**:
 
-Adding clients
-
-Adding/deleting orders
-
-Checking individual orders
-
-Viewing all orders for a client
+  - Adding clients
+  
+  - Adding/deleting orders
+  
+  - Checking individual orders
+  
+  - Viewing all orders for a client
 
 # Authors 
 Nouhaila 

@@ -27,8 +27,8 @@ It allows you to manage clients and their orders through an interactive graphica
 # 🚀 How to Run
 1-Clone the repository:
 ```markdown
-git clone https://github.com/your-username/order-management-tkinter.git
-cd order-management-tkinter
+git clone https://github.com/Byeolunu/OrderMangement
+cd OrderManagement
 ```
 2-Make sure you have Python installed:
 ```markdown

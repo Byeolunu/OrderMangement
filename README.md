@@ -20,9 +20,9 @@ It allows you to manage clients and their orders through an interactive graphica
   - Uses SQLite for persistent local data storage
 
 # 🏗️ Technologies Used
-Python 3
-Tkinter (for GUI)
-SQLite3 (for database)
+- Python 3
+- Tkinter (for GUI)
+- SQLite3 (for database)
 
 # 🚀 How to Run
 1-Clone the repository:
